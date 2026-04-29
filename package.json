@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "@actions/github": "^6.0.0"
+    "@actions/github": "^6.0.0",
+    "@inariwatch/capture": "^0.10.2"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
